@@ -6,7 +6,7 @@ const form = document.getElementById("chat-form");
 const userInput = document.getElementById("user-input");
 const typingIndicator = document.getElementById("typing-indicator");
 
-const WEBHOOK_URL = "https://your-n8n-webhook-url.com/webhook/chatbot"; // Replace with actual n8n URL
+const WEBHOOK_URL = "https://ansarulislamfahad123.app.n8n.cloud/webhook/ffcf29b6-19e9-40fd-81a6-132910560043/chat"; // Replace with actual n8n URL
 
 chatIcon.onclick = () => chatContainer.classList.remove("hidden");
 closeChat.onclick = () => chatContainer.classList.add("hidden");
