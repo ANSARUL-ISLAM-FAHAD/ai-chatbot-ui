@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://ansarulislamfahad123.app.n8n.cloud/webhook/ffcf29b6-19e9-40fd-81a6-132910560043/chat";
+const WEBHOOK_URL = "https://ansarulislamfahad123.app.n8n.cloud/webhook-test/chat";
 
 const chatIcon = document.getElementById("chat-icon");
 const chatContainer = document.getElementById("chat-container");
